@@ -1,0 +1,97 @@
+/* css/recipeList.css */
+
+/* Global Style */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh; /* Use min-height to allow content to expand */
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 2rem;
+    color: #2c3e50;
+}
+
+/* Style for the newly added Add Recipe button */
+.add-recipe-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745; /* Green color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 15px; /* Adjust spacing from the title */
+    margin-bottom: 20px; /* Adjust spacing from the recipe list */
+    transition: background-color 0.3s ease;
+}
+
+.add-recipe-btn:hover {
+    background-color: #1e7e34; /* Darker green on hover */
+}
+
+ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    display: flex;
+    flex-direction: column; /* Stack image and link vertically */
+    margin: 15px;
+    width: 200px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+li:hover {
+    transform: translateY(-10px);
+}
+
+li > a {
+    display: flex;
+    flex-direction: column; /* Stack image and text within the link */
+    height: 100%; /* Make the link fill the list item's height */
+    text-decoration: none; /* Remove default link styling */
+    color: inherit; /* Inherit text color */
+}
+
+img.recipe-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-bottom: 2px solid #ddd;
+    flex-grow: 1; /* Allow image to take up available space */
+    object-fit: cover; /* Cover the area, may crop */
+}
+
+.recipe-name {
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 0 0 8px 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.recipe-name:hover {
+    background-color: #2980b9;
+    cursor: pointer;
+}

@@ -1,0 +1,135 @@
+/* css/recipeDetails.css */
+
+/* Global Reset and Base Styles */
+body, h1, h2, p, ul, li, a, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif; /* Clean and readable font */
+    background-color: #f4f6f8; /* Soft background */
+    color: #333; /* Darker text for better contrast */
+    line-height: 1.6;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 40px;
+    width: 90%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #e64a19; /* Vibrant accent color */
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: -0.01em;
+}
+
+.recipe-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    object-fit: cover; /* Ensure image covers the area nicely */
+}
+
+h2.ingredients-title,
+h2.instructions-title {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.ingredients-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 25px;
+}
+
+.ingredients-list li {
+    font-size: 1.1rem;
+    color: #555;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee; /* Subtle dividers */
+}
+
+.ingredients-list li:last-child {
+    border-bottom: none;
+}
+
+.instructions {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.7;
+    margin-bottom: 30px;
+    white-space: pre-line; /* Respect line breaks */
+}
+
+.back-btn {
+    display: inline-block;
+    background-color: #007bff; /* Primary blue */
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.back-btn:hover {
+    background-color: #0056b3;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2.4rem;
+        margin-bottom: 20px;
+    }
+
+    .container {
+        padding: 30px;
+    }
+
+    h2.ingredients-title,
+    h2.instructions-title {
+        font-size: 1.8rem;
+        margin-top: 25px;
+        margin-bottom: 12px;
+    }
+
+    .ingredients-list li,
+    .instructions {
+        font-size: 1rem;
+    }
+
+    .back-btn {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+}

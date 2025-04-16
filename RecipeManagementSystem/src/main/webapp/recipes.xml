@@ -1,0 +1,137 @@
+<recipes>
+    <recipe>
+        <name>Spaghetti Bolognese</name>
+        <ingredients>
+            <ingredient>Spaghetti - 200g</ingredient>
+            <ingredient>Ground Beef - 300g</ingredient>
+            <ingredient>Tomato Sauce - 1 cup</ingredient>
+            <ingredient>Garlic - 3 cloves</ingredient>
+            <ingredient>Onion - 1 medium, chopped</ingredient>
+            <ingredient>Olive Oil - 2 tbsp</ingredient>
+            <ingredient>Salt - to taste</ingredient>
+            <ingredient>Pepper - to taste</ingredient>
+        </ingredients>
+        <instructions>
+            1. Boil water in a large pot and cook the spaghetti according to package instructions.
+            2. In a separate pan, heat olive oil and sauté the chopped onion and garlic until soft.
+            3. Add the ground beef and cook until browned. Season with salt and pepper.
+            4. Add the tomato sauce to the beef mixture and simmer for 10-15 minutes.
+            5. Drain the spaghetti and toss with the sauce. Serve hot.
+        </instructions>
+        <image>https://imgs.search.brave.com/_EenYRfFeaYeRQ9FQW7dS49fBX4WZ3WBlEqpcFIXrLg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTM2/NjEwMDk4L3Bob3Rv/L3NwYWdoZXR0aS1i/b2xvZ25lc2UuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPU42/Tm0wVk5PaUgtNGpY/ODhZa3dpYTdtcHJF/R1k3ejVZVXc3WlNW/aHY1Y0E9</image>
+    </recipe>
+    <recipe>
+        <name>Paneer Butter Masala</name>
+        <ingredients>
+            <ingredient>Paneer - 250g</ingredient>
+            <ingredient>Butter - 2 tbsp</ingredient>
+            <ingredient>Tomato Puree - 1 cup</ingredient>
+            <ingredient>Heavy Cream - ½ cup</ingredient>
+            <ingredient>Ginger-Garlic Paste - 1 tbsp</ingredient>
+            <ingredient>Onion - 1 large, chopped</ingredient>
+            <ingredient>Spices (Cumin, Garam Masala, Turmeric) - 1 tsp each</ingredient>
+            <ingredient>Salt - to taste</ingredient>
+            <ingredient>Coriander Leaves - for garnish</ingredient>
+        </ingredients>
+        <instructions>
+            1. Heat butter in a pan, sauté the chopped onion until golden brown.
+            2. Add the ginger-garlic paste and cook until fragrant.
+            3. Add tomato puree and cook for 5-6 minutes until the oil separates.
+            4. Add the spices, and cook for another 2 minutes.
+            5. Add the paneer cubes and mix well.
+            6. Pour in the heavy cream and cook for 5 minutes on low heat.
+            7. Garnish with coriander leaves and serve with naan or rice.
+        </instructions>
+        <image>https://imgs.search.brave.com/zokFzOhSiCrW4U9-fYm4dNn-q3dopKq9rigZf63SGOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA3LzY0Lzc3Lzgw/LzM2MF9GXzc2NDc3/ODA3M19TVzNtM1Q3/OTQ0WUtySmtTOVFW/TkxPTmYxUWxzc2Jp/Mi5qcGc</image>
+    </recipe>
+    <recipe>
+        <name>Chole Bhature</name>
+        <ingredients>
+            <ingredient>Chickpeas - 1 cup</ingredient>
+            <ingredient>Flour (for Bhature) - 2 cups</ingredient>
+            <ingredient>Baking Powder - ½ tsp</ingredient>
+            <ingredient>Onion - 1 medium, chopped</ingredient>
+            <ingredient>Tomato - 1 large, chopped</ingredient>
+            <ingredient>Spices (Cumin, Garam Masala, Turmeric) - 1 tsp each</ingredient>
+            <ingredient>Ginger-Garlic Paste - 1 tbsp</ingredient>
+            <ingredient>Salt - to taste</ingredient>
+            <ingredient>Oil - for frying</ingredient>
+        </ingredients>
+        <instructions>
+            1. Soak chickpeas overnight and cook until soft.
+            2. For Bhature dough: Mix flour, baking powder, salt, and water. Knead to a smooth dough and let it rest.
+            3. For Chole gravy: Heat oil in a pan, sauté onion and ginger-garlic paste until golden.
+            4. Add tomatoes and spices, cook until the oil separates.
+            5. Add cooked chickpeas to the gravy and cook for 10 minutes.
+            6. For Bhature: Roll dough into small balls and deep fry in hot oil until golden.
+            7. Serve the hot Chole with crispy Bhature.
+        </instructions>
+        <image>https://imgs.search.brave.com/WROBhd8mqQiljNjdlK1pyu68skRxTiH0viUlGYZcBqA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA5LzU4LzEzLzMz/LzM2MF9GXzk1ODEz/MzM5NV9CVk1yQUVN/MUxTc3NPdkNLMVgz/VWV1Sm1lUWluVlBO/eS5qcGc</image>
+    </recipe>
+    <recipe>
+        <name>Butter Chicken</name>
+        <ingredients>
+            <ingredient>Chicken - 500g, boneless</ingredient>
+            <ingredient>Butter - 3 tbsp</ingredient>
+            <ingredient>Tomato Puree - 1 cup</ingredient>
+            <ingredient>Heavy Cream - ½ cup</ingredient>
+            <ingredient>Ginger-Garlic Paste - 1 tbsp</ingredient>
+            <ingredient>Onion - 1 medium, chopped</ingredient>
+            <ingredient>Spices (Garam Masala, Cumin, Chili Powder) - 1 tsp each</ingredient>
+            <ingredient>Salt - to taste</ingredient>
+            <ingredient>Fresh Coriander - for garnish</ingredient>
+        </ingredients>
+        <instructions>
+            1. Heat butter in a pan, sauté chopped onion and ginger-garlic paste until golden.
+            2. Add tomato puree and cook for 5 minutes.
+            3. Add chicken pieces, spices, and salt. Cook until chicken is fully cooked.
+            4. Pour in the cream, cook for another 5-7 minutes on low heat.
+            5. Garnish with fresh coriander leaves and serve with naan or rice.
+        </instructions>
+        <image>https://imgs.search.brave.com/wUqh4rZlIFhrvM5f8RcGm94vqty6AosM6QXMYMtn-ZY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhbHRo/eXJlY2lwZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzA0L2J1dHRlci1j/aGlja2VuLXJlY2lw/ZS53ZWJw</image>
+    </recipe>
+    <recipe>
+        <name>Biryani</name>
+        <ingredients>
+            <ingredient>Rice - 2 cups</ingredient>
+            <ingredient>Chicken or Mutton - 500g</ingredient>
+            <ingredient>Yogurt - 1 cup</ingredient>
+            <ingredient>Onion - 2 medium, thinly sliced</ingredient>
+            <ingredient>Tomato - 1 large, chopped</ingredient>
+            <ingredient>Spices (Cumin, Garam Masala, Saffron, Cardamom) - 1 tsp each</ingredient>
+            <ingredient>Salt - to taste</ingredient>
+            <ingredient>Oil or Ghee - 3 tbsp</ingredient>
+            <ingredient>Coriander and Mint Leaves - for garnish</ingredient>
+        </ingredients>
+        <instructions>
+            1. Cook rice with salt and a few whole spices, and set aside.
+            2. Marinate the chicken/mutton with yogurt, spices, and salt for 30 minutes.
+            3. In a pan, heat oil/ghee, sauté onions until golden brown.
+            4. Add marinated meat, cook until tender.
+            5. Layer cooked rice over the meat, add saffron-soaked milk on top, and cook on low heat for 15 minutes.
+            6. Garnish with coriander and mint leaves and serve.
+        </instructions>
+        <image>https://imgs.search.brave.com/57MrK0-f-nrjcaXC-nYa-knR7p4L9WhAmENxfDHdYj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5LzU4Lzg4LzQy/LzM2MF9GXzk1ODg4/NDIyMF9zRzV0SGNl/elg2RXU1OGdEdGxQ/SDhzNVljRFdGQ0hn/RC5qcGc</image>
+    </recipe>
+    <recipe>
+        <name>Masoor Dal</name>
+        <ingredients>
+            <ingredient>Red Lentils (Masoor Dal) - 1 cup</ingredient>
+            <ingredient>Onion - 1 medium, chopped</ingredient>
+            <ingredient>Tomato - 1 large, chopped</ingredient>
+            <ingredient>Garlic - 3 cloves, minced</ingredient>
+            <ingredient>Spices (Cumin, Turmeric, Chili Powder) - 1 tsp each</ingredient>
+            <ingredient>Salt - to taste</ingredient>
+            <ingredient>Oil - 2 tbsp</ingredient>
+        </ingredients>
+        <instructions>
+            1. Rinse lentils and cook in water until soft.
+            2. Heat oil in a pan, sauté onions and garlic until golden.
+            3. Add tomatoes and spices, cook until oil separates.
+            4. Add the cooked lentils and simmer for 5-7 minutes.
+            5. Serve hot with rice or roti.
+        </instructions>
+        <image>https://imgs.search.brave.com/lmF8w3uGy1RsCkPVPDrJDAUj89TMXA6F8Q3g4M_JReA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbmRp/c2hpb3VzLmNvbS9f/YXN0cm8vYzc4ZWI3/ZWMtYjI5Yy00MzU5/LThjNmItYWJjMDky/MDlmMGRjX01vb25n/X01hc29vcl9EYWxf/QmxhY2tfbHRMcWwu/anBlZw</image>
+    </recipe>
+    
+</recipes>
